@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Victor Avellar
+# Hi, I'm Victor Avellar. 
+I am a software engineer, and i have been developing software for the last 5 years.
 
-💻 **Software Engineer** | ⚡ Full-stack | 🤖 AI & Machine Learning  
-
-🌍 Cariacica - Espírito Santo, Brazil  
 📚 Computer Scientist and currently pursuing a **Postgraduate degree in AI & Machine Learning** (PUC Minas)  
 🚀 Passionate about clean code, best practices, and building smart solutions.  
 
