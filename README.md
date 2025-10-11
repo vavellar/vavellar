@@ -1,5 +1,5 @@
 # Hi, I'm Victor Avellar. 
-I am a software engineer, and i have been developing software for the last 5 years.
+I am a software engineer, and i have been developing software for the last 8 years.
 
 📚 Computer Scientist and currently pursuing a **Postgraduate degree in AI & Machine Learning** 
 
